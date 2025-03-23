@@ -8,6 +8,9 @@ ExpressClone is a lightweight, minimal HTTP server built in Node.js to mimic som
 - 404 error handling for undefined routes.
 - Easy to extend with additional HTTP methods and features.
 
+# Drop in Replacement 
+![image](https://github.com/user-attachments/assets/4611310c-7a75-4522-9339-fe4a704cdea0)
+
 ## Installation
 
 To use ExpressClone in your project, follow these steps:
